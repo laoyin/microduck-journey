@@ -1,0 +1,10 @@
+3mf 内网格文件数: 44
+
+零件                      3mf三角    3mf开放边    STL三角    STL开放边  结论
+bottom_head_shell       20970         0    20970         0  ✅ 破面出生即在(与脚本无关)  [bottom_head_shell_头部下壳.stl.stl]
+foot_left               19922         0    19922         0  ✅ 破面出生即在(与脚本无关)  [foot_left_左脚.stl.stl]
+neck_颈部                  1468         0     1468         0  ✅ 破面出生即在(与脚本无关)  [neck_颈部.stl(1).stl]
+neck_颈部                  1468         0     1468         0  ✅ 破面出生即在(与脚本无关)  [neck_颈部.stl.stl]
+power_support           12832         0    12832         0  ✅ 破面出生即在(与脚本无关)  [power_support_电源支架.stl.stl]
+top_head_shell          24210       398    24210       398  ✅ 破面出生即在(与脚本无关)  [top_head_shell_头部上壳-FT.STEP.stl]
+trunk_base               3698         0     3698         0  ✅ 破面出生即在(与脚本无关)  [trunk_base_躯干底座.stl.stl]

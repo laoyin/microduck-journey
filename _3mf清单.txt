@@ -1,0 +1,49 @@
+源文件: microduck-飞特版-BambuStudio2026-10-20.3mf（v2.2）
+盘数: 6
+
+== 盘1（10 件）==
+  1 x ankle_l_v1_脚踝左V1.stl
+  1 x ankle_left_脚踝左.STEP
+  1 x ankle_r_v1_脚踝右V1.stl
+  1 x ankle_right脚踝右.STEP
+  1 x bottom_head_shell_头部下壳.stl
+  1 x foot_left_左脚.stl
+  1 x foot_right_右脚.stl
+  1 x jaw_下巴.stl
+  2 x roller_blade_滚轮叶片.stl
+
+== 盘2（3 件）==
+  1 x noenoeil_眼睛.stl
+  1 x sole_left_左脚底.stl
+  1 x sole_right_右脚底.stl
+
+== 盘3（5 件）==
+  1 x left_shell_左壳-FT.STEP
+  1 x left_upper_leg_左上腿-FT.STEP
+  1 x right_shell_右壳.stl
+  1 x right_upper_leg_右上腿-FT.STEP
+  1 x top_head_shell_头部上壳-FT.STEP
+
+== 盘4（16 件）==
+  1 x 99-yaw_roll_motion_偏航横滚运动-F.STEP
+  1 x banana_pcb_locker_香蕉形PCB锁扣.stl
+  1 x face_part_面部零件.stp
+  2 x hip_l_髋部左.stl
+  1 x jaw_soft_软下巴.stl
+  2 x leg_腿部-FT.STEP
+  1 x motor_support_电机支架.stl
+  1 x neck_pitch_颈部俯仰.stl
+  2 x neck_颈部.stl
+  1 x power_support_电源支架.stl
+  1 x soft_mouth_top_软嘴顶部.stl
+  2 x yaw2roll_偏航转横滚-FT.STEP
+
+== 盘5（5 件）==
+  2 x 01-upper_leg_rigidity_plate_上腿加固板-FT.STEP
+  2 x bearing_roll_轴承滚轮-FT.STEP
+  1 x trunk_base_躯干底座.stl
+
+== 盘6（4 件）==
+  4 x 合体轮胎.STEP
+
+===== 合计 43 件 / 33 种 =====

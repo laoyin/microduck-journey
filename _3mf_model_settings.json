@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <object id="88">
+    <metadata key="name" value="1"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="12204"/>
+    <part id="87" subtype="normal_part" uuid="b1a3a613-9c10-4651-b04e-cf4cc8ad1a1d">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="yaw2roll_偏航转横滚-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="17.5"/>
+      <metadata key="source_offset_y" value="-0.40000009536743164"/>
+      <metadata key="source_offset_z" value="5.25"/>
+      <mesh_stat face_count="12204" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="19">
+    <metadata key="name" value="hip_l_髋部左.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20970"/>
+    <part id="15" subtype="normal_part" uuid="d551b6c7-e71e-4ca9-b62b-ffe8776e7aea">
+      <metadata key="name" value="hip_l_髋部左.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="hip_l_髋部左.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.024225025903433561"/>
+      <metadata key="source_offset_y" value="-0.0077500003390014172"/>
+      <metadata key="source_offset_z" value="0"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20970" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="38">
+    <metadata key="name" value="right_shell_右壳.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20970"/>
+    <part id="37" subtype="normal_part" uuid="ef8a48bb-517a-432d-a907-cca945099f27">
+      <metadata key="name" value="right_shell_右壳.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="right_shell_右壳.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-0.015882244333617974"/>
+      <metadata key="source_offset_y" value="0.0099489269778132439"/>
+      <metadata key="source_offset_z" value="0.038680035620927811"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20970" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="23">
+    <metadata key="name" value="left_shell_左壳.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20970"/>
+    <part id="22" subtype="normal_part" uuid="4a3cf2d9-5d13-40d7-b28e-839c1075083f">
+      <metadata key="name" value="left_shell_左壳.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="left_shell_左壳.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.014907244360074401"/>
+      <metadata key="source_offset_y" value="0.0099450321868062019"/>
+      <metadata key="source_offset_z" value="0.038681108504533768"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20970" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="32">
+    <metadata key="name" value="neck_颈部.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="1468"/>
+    <part id="30" subtype="normal_part" uuid="e4d63471-c82a-46d8-a698-a66ead82eec0">
+      <metadata key="name" value="neck_颈部.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 9.5367431031249963e-07 0 0 1 3.8146973312499957e-06 0 0 0 1"/>
+      <metadata key="source_file" value="neck_颈部.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.0010000000474974513"/>
+      <metadata key="source_offset_y" value="-0.022000000812113285"/>
+      <metadata key="source_offset_z" value="0.07499999925494194"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="1468" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="48">
+    <metadata key="name" value="sole_right_右脚底.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="15888"/>
+    <part id="47" subtype="normal_part" uuid="f5e28d19-09ce-4923-9014-36a2b498ffff">
+      <metadata key="name" value="sole_right_右脚底.stl"/>
+      <metadata key="matrix" value="1 0 0 -9.5367431031249963e-07 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="sole_right_右脚底.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-0.050004727207124233"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.024795727804303169"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="15888" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="52">
+    <metadata key="name" value="trunk_base_躯干底座.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="3698"/>
+    <part id="51" subtype="normal_part" uuid="1848fdad-c1c7-4b33-be48-a217f1b10ba1">
+      <metadata key="name" value="trunk_base_躯干底座.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -9.5367431031249963e-07 0 0 0 1"/>
+      <metadata key="source_file" value="trunk_base_躯干底座.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0.004999999888241291"/>
+      <metadata key="source_offset_z" value="0.018000000156462193"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="3698" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="36">
+    <metadata key="name" value="power_support_电源支架.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="12832"/>
+    <part id="35" subtype="normal_part" uuid="54c84ef8-2160-4fbd-af66-bf9ada834d46">
+      <metadata key="name" value="power_support_电源支架.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="power_support_电源支架.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0.026499999687075615"/>
+      <metadata key="source_offset_z" value="0.015198757871985435"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="12832" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="46">
+    <metadata key="name" value="sole_left_左脚底.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="15788"/>
+    <part id="45" subtype="normal_part" uuid="10c1d19d-16ff-4725-8839-22b21ec2b0b5">
+      <metadata key="name" value="sole_left_左脚底.stl"/>
+      <metadata key="matrix" value="1 0 0 9.5367431031249963e-07 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="sole_left_左脚底.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.050004682503640652"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.02479560486972332"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="15788" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="50">
+    <metadata key="name" value="top_head_shell_头部上壳.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="16120"/>
+    <part id="49" subtype="normal_part" uuid="966ed69a-5c58-4a3f-aeb1-cc581b65ed6f">
+      <metadata key="name" value="top_head_shell_头部上壳.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="top_head_shell_头部上壳.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="7.4505805969238281e-08"/>
+      <metadata key="source_offset_y" value="-0.0048450101166963577"/>
+      <metadata key="source_offset_z" value="0.023166714334934113"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="16120" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="25">
+    <metadata key="name" value="m12_lens_holder_M12镜头座.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="10992"/>
+    <part id="24" subtype="normal_part" uuid="76914888-6e30-4a7f-802a-eb8a6e429ff4">
+      <metadata key="name" value="m12_lens_holder_M12镜头座.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="m12_lens_holder_M12镜头座.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0.0074000000022351733"/>
+      <metadata key="source_offset_z" value="0"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="10992" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="27">
+    <metadata key="name" value="motor_support_电机支架.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="3616"/>
+    <part id="26" subtype="normal_part" uuid="440e8cba-78a4-4d3b-acde-aa0615a63f35">
+      <metadata key="name" value="motor_support_电机支架.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="motor_support_电机支架.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-0.0027499999850988388"/>
+      <metadata key="source_offset_y" value="0.00090000033378601074"/>
+      <metadata key="source_offset_z" value="0.0098000004509231076"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="3616" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="21">
+    <metadata key="name" value="jaw_下巴.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="9918"/>
+    <part id="20" subtype="normal_part" uuid="addf1790-7798-4288-be2f-6b4f5bd0fd20">
+      <metadata key="name" value="jaw_下巴.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="jaw_下巴.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="-0.025355247780680656"/>
+      <metadata key="source_offset_z" value="0.0017761699855327606"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="9918" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="29">
+    <metadata key="name" value="neck_pitch_颈部俯仰.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7120"/>
+    <part id="28" subtype="normal_part" uuid="86cdb0da-c699-4708-b952-ed5041db07d7">
+      <metadata key="name" value="neck_pitch_颈部俯仰.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="neck_pitch_颈部俯仰.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="-0.023946557193994522"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7120" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="31">
+    <metadata key="name" value="neck_颈部.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="1468"/>
+    <part id="30" subtype="normal_part" uuid="115afcbb-c1a8-4b32-9bcd-876e7117b250">
+      <metadata key="name" value="neck_颈部.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 9.5367431031249963e-07 0 0 1 3.8146973312499957e-06 0 0 0 1"/>
+      <metadata key="source_file" value="neck_颈部.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.0010000000474974513"/>
+      <metadata key="source_offset_y" value="-0.022000000812113285"/>
+      <metadata key="source_offset_z" value="0.07499999925494194"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="1468" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="34">
+    <metadata key="name" value="noenoeil_眼睛.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="984"/>
+    <part id="33" subtype="normal_part" uuid="54b6488e-92b7-464c-a734-67d82e6bbb6a">
+      <metadata key="name" value="noenoeil_眼睛.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -1.9073485906249992e-06 0 0 1 -4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="noenoeil_眼睛.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="-0.058750001713633537"/>
+      <metadata key="source_offset_z" value="0.020000000018626451"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="984" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="40">
+    <metadata key="name" value="rim_轮辋.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2304"/>
+    <part id="39" subtype="normal_part" uuid="60dfffe7-5723-4c02-8b11-af4312c42b8c">
+      <metadata key="name" value="rim_轮辋.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -9.5367431031249963e-07 0 0 0 1"/>
+      <metadata key="source_file" value="rim_轮辋.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999841675162"/>
+      <metadata key="source_offset_z" value="-0.038722912780940533"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2304" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="42">
+    <metadata key="name" value="roller_blade_滚轮叶片.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20968"/>
+    <part id="41" subtype="normal_part" uuid="359d7ef6-833e-4733-9dac-5208833ab19c">
+      <metadata key="name" value="roller_blade_滚轮叶片.stl"/>
+      <metadata key="matrix" value="1 0 0 -9.5367431031249963e-07 0 1 0 0 0 0 1 4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="roller_blade_滚轮叶片.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.050000001676380634"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.027531328145414591"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20968" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="44">
+    <metadata key="name" value="soft_mouth_top_软嘴顶部.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7870"/>
+    <part id="43" subtype="normal_part" uuid="7a0e5d6c-4a92-4b2e-8f26-a5acd5843b23">
+      <metadata key="name" value="soft_mouth_top_软嘴顶部.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="soft_mouth_top_软嘴顶部.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="-0.04178385715931654"/>
+      <metadata key="source_offset_z" value="-0.0033326721750199795"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7870" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="89">
+    <metadata key="name" value="1"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="12204"/>
+    <part id="87" subtype="normal_part" uuid="35c8f257-6d7e-49c8-9ea2-2b001caa5d95">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="yaw2roll_偏航转横滚-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="17.5"/>
+      <metadata key="source_offset_y" value="-0.40000009536743164"/>
+      <metadata key="source_offset_z" value="5.25"/>
+      <mesh_stat face_count="12204" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="12">
+    <metadata key="name" value="foot_left_左脚.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="19922"/>
+    <part id="11" subtype="normal_part" uuid="d5ec77a0-f148-4db6-9fa5-a3b2c6207844">
+      <metadata key="name" value="foot_left_左脚.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="foot_left_左脚.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.050123561173677444"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.020796434488147497"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="19922" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="14">
+    <metadata key="name" value="foot_right_右脚.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="19914"/>
+    <part id="13" subtype="normal_part" uuid="f66d2101-6106-4662-b665-f6ef2340d55f">
+      <metadata key="name" value="foot_right_右脚.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="foot_right_右脚.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-0.050123561173677444"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.020796434488147497"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="19914" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="16">
+    <metadata key="name" value="hip_l_髋部左.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20970"/>
+    <part id="15" subtype="normal_part" uuid="e9f3d143-df5f-470c-a78d-e8bfec3bb9e7">
+      <metadata key="name" value="hip_l_髋部左.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="hip_l_髋部左.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.024225025903433561"/>
+      <metadata key="source_offset_y" value="-0.0077500003390014172"/>
+      <metadata key="source_offset_z" value="0"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20970" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="18">
+    <metadata key="name" value="jaw_soft_软下巴.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="6726"/>
+    <part id="17" subtype="normal_part" uuid="04b3a9eb-57f8-4edb-94a4-1519629b1c33">
+      <metadata key="name" value="jaw_soft_软下巴.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -1.9073485906249992e-06 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="jaw_soft_软下巴.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="-0.041618308052420616"/>
+      <metadata key="source_offset_z" value="-0.0069289393723011017"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="6726" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="4">
+    <metadata key="name" value="ankle_r_v1_脚踝右V1.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4714"/>
+    <part id="3" subtype="normal_part" uuid="b7e0a48b-ad3e-4426-a54b-9914a04af565">
+      <metadata key="name" value="ankle_r_v1_脚踝右V1.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="ankle_r_v1_脚踝右V1.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-0.050109069794416428"/>
+      <metadata key="source_offset_y" value="0.014711881522089243"/>
+      <metadata key="source_offset_z" value="-0.009722911985591054"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="4714" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="8">
+    <metadata key="name" value="bearing_roll_轴承滚轮.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2420"/>
+    <part id="7" subtype="normal_part" uuid="b89a4579-1151-4d1e-bd8e-49f159ee41bb">
+      <metadata key="name" value="bearing_roll_轴承滚轮.stl"/>
+      <metadata key="matrix" value="1 0 0 4.7683715515624982e-07 0 1 0 -4.7683715515624982e-07 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="bearing_roll_轴承滚轮.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.017499999608844519"/>
+      <metadata key="source_offset_y" value="-0.012999999802559614"/>
+      <metadata key="source_offset_z" value="-0.0044999998062849045"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2420" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="10">
+    <metadata key="name" value="bottom_head_shell_头部下壳.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20970"/>
+    <part id="9" subtype="normal_part" uuid="981628e2-a9b8-4ef2-9e46-186c213a006c">
+      <metadata key="name" value="bottom_head_shell_头部下壳.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="bottom_head_shell_头部下壳.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="3.7252902984619141e-08"/>
+      <metadata key="source_offset_y" value="-0.0018741395324468613"/>
+      <metadata key="source_offset_z" value="-0.002568128751590848"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20970" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="6">
+    <metadata key="name" value="banana_pcb_locker_香蕉形PCB锁扣.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="1388"/>
+    <part id="5" subtype="normal_part" uuid="409e5547-69a7-4a83-85c4-5b550510cc82">
+      <metadata key="name" value="banana_pcb_locker_香蕉形PCB锁扣.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -1.8477440174804691e-06 0 0 1 -1.7881392943359385e-06 0 0 0 1"/>
+      <metadata key="source_file" value="banana_pcb_locker_香蕉形PCB锁扣.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0.034599998965859413"/>
+      <metadata key="source_offset_z" value="0.052300000563263893"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="1388" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="2">
+    <metadata key="name" value="ankle_l_v1_脚踝左V1.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4718"/>
+    <part id="1" subtype="normal_part" uuid="74724a5e-83a6-4fab-a937-4206e9409f8c">
+      <metadata key="name" value="ankle_l_v1_脚踝左V1.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="ankle_l_v1_脚踝左V1.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.050109069794416428"/>
+      <metadata key="source_offset_y" value="0.014712241012603045"/>
+      <metadata key="source_offset_z" value="-0.009722911985591054"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="4718" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="57">
+    <metadata key="name" value="rim_轮辋.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2304"/>
+    <part id="39" subtype="normal_part" uuid="6de4d80b-9b55-4930-b4f2-d69079c691b9">
+      <metadata key="name" value="rim_轮辋.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -9.5367431031249963e-07 0 0 0 1"/>
+      <metadata key="source_file" value="rim_轮辋.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999841675162"/>
+      <metadata key="source_offset_z" value="-0.038722912780940533"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2304" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="66">
+    <metadata key="name" value="ankle_right脚踝右.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="5038"/>
+    <part id="65" subtype="normal_part" uuid="70b3a7fc-ad7e-47be-9e96-a5a6ed5a8c04">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="ankle_right脚踝右.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="3.5887885093688965"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="-3.5499997138977051"/>
+      <mesh_stat face_count="5038" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="68">
+    <metadata key="name" value="ankle_left_脚踝左.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="6270"/>
+    <part id="67" subtype="normal_part" uuid="1b668a6d-ffc5-45dd-8990-5f57084a8cda">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="ankle_left_脚踝左.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="3.5887885093688965"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="-3.5499997138977051"/>
+      <mesh_stat face_count="6270" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="61">
+    <metadata key="name" value="roller_blade_滚轮叶片.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="20968"/>
+    <part id="41" subtype="normal_part" uuid="170882c4-cfb8-45cd-8c32-c17ab477d52b">
+      <metadata key="name" value="roller_blade_滚轮叶片.stl"/>
+      <metadata key="matrix" value="1 0 0 -9.5367431031249963e-07 0 1 0 0 0 0 1 4.7683715515624982e-07 0 0 0 1"/>
+      <metadata key="source_file" value="roller_blade_滚轮叶片.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.050000001676380634"/>
+      <metadata key="source_offset_y" value="0.014999999664723873"/>
+      <metadata key="source_offset_z" value="-0.027531328145414591"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="20968" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="70">
+    <metadata key="name" value="right_upper_leg_右上腿-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="14246"/>
+    <part id="69" subtype="normal_part" uuid="29990440-0e88-4277-8b10-176bf3cabac3">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431640625e-07 0 0 1 -9.5367431640625e-07 0 0 0 1"/>
+      <metadata key="source_file" value="right_upper_leg_右上腿-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="-56.5"/>
+      <metadata key="source_offset_y" value="10.362291812896729"/>
+      <metadata key="source_offset_z" value="18.300844669342041"/>
+      <mesh_stat face_count="14246" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="64">
+    <metadata key="name" value="轴承12×6×3.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="952"/>
+    <part id="59" subtype="normal_part" uuid="8043921f-d284-4ef9-ba5e-0eb1b1739b6f">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="轴承12×6×3.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="0"/>
+      <mesh_stat face_count="952" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="72">
+    <metadata key="name" value="left_upper_leg_左上腿-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="14052"/>
+    <part id="71" subtype="normal_part" uuid="a6acb4dd-b862-4ac0-939f-2ae59a8cd44d">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431640625e-07 0 0 1 -9.5367431640625e-07 0 0 0 1"/>
+      <metadata key="source_file" value="left_upper_leg_左上腿-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="56.5"/>
+      <metadata key="source_offset_y" value="10.362291812896729"/>
+      <metadata key="source_offset_z" value="18.300844669342041"/>
+      <mesh_stat face_count="14052" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="54">
+    <metadata key="name" value="face_part_面部零件.stp"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="11412"/>
+    <part id="53" subtype="normal_part" uuid="a9da0284-12b0-449c-bee4-4653b1e3398a">
+      <metadata key="name" value="face_part_面部零件"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="face_part_面部零件.stp"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="-49.25"/>
+      <metadata key="source_offset_z" value="21.513240456581116"/>
+      <mesh_stat face_count="11412" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="58">
+    <metadata key="name" value="rim_轮辋.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2304"/>
+    <part id="39" subtype="normal_part" uuid="3be741dc-ca31-4651-af92-27323d41463c">
+      <metadata key="name" value="rim_轮辋.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -9.5367431031249963e-07 0 0 0 1"/>
+      <metadata key="source_file" value="rim_轮辋.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999841675162"/>
+      <metadata key="source_offset_z" value="-0.038722912780940533"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2304" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="62">
+    <metadata key="name" value="bearing_roll_轴承滚轮.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2420"/>
+    <part id="7" subtype="normal_part" uuid="7d8b290b-26ab-4054-890c-6d2bf829087e">
+      <metadata key="name" value="bearing_roll_轴承滚轮.stl"/>
+      <metadata key="matrix" value="1 0 0 4.7683715515624982e-07 0 1 0 -4.7683715515624982e-07 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="bearing_roll_轴承滚轮.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.017499999608844519"/>
+      <metadata key="source_offset_y" value="-0.012999999802559614"/>
+      <metadata key="source_offset_z" value="-0.0044999998062849045"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2420" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="56">
+    <metadata key="name" value="tire_轮胎.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7056"/>
+    <part id="55" subtype="normal_part" uuid="da73f474-4b08-48fa-8e26-97a0fdc85596">
+      <metadata key="name" value="tire_轮胎.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 1.9073485906249992e-06 0 0 0 1"/>
+      <metadata key="source_file" value="tire_轮胎.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999376013875"/>
+      <metadata key="source_offset_z" value="-0.038722911849617958"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7056" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="60">
+    <metadata key="name" value="轴承12×6×3.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="952"/>
+    <part id="59" subtype="normal_part" uuid="0cc023aa-569b-485d-a3da-3c77db9f5d03">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="轴承12×6×3.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="0"/>
+      <mesh_stat face_count="952" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="63">
+    <metadata key="name" value="rim_轮辋.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="2304"/>
+    <part id="39" subtype="normal_part" uuid="5f703c81-2e74-42f7-b394-a5783a959403">
+      <metadata key="name" value="rim_轮辋.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 -9.5367431031249963e-07 0 0 0 1"/>
+      <metadata key="source_file" value="rim_轮辋.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999841675162"/>
+      <metadata key="source_offset_z" value="-0.038722912780940533"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="2304" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="86">
+    <metadata key="name" value="tire_轮胎.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7056"/>
+    <part id="55" subtype="normal_part" uuid="97807b36-516b-4d16-984b-7816cbc96f7f">
+      <metadata key="name" value="tire_轮胎.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 1.9073485906249992e-06 0 0 0 1"/>
+      <metadata key="source_file" value="tire_轮胎.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999376013875"/>
+      <metadata key="source_offset_z" value="-0.038722911849617958"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7056" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="84">
+    <metadata key="name" value="tire_轮胎.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7056"/>
+    <part id="55" subtype="normal_part" uuid="670a6d2d-2aa6-455f-8b35-f1c143a3f258">
+      <metadata key="name" value="tire_轮胎.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 1.9073485906249992e-06 0 0 0 1"/>
+      <metadata key="source_file" value="tire_轮胎.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999376013875"/>
+      <metadata key="source_offset_z" value="-0.038722911849617958"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7056" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="82">
+    <metadata key="name" value="bearing_roll_轴承滚轮-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4472"/>
+    <part id="78" subtype="normal_part" uuid="697efa29-3a69-406e-8dcb-ce23904b115f">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="bearing_roll_轴承滚轮-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="1.75"/>
+      <mesh_stat face_count="4472" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="83">
+    <metadata key="name" value="leg_腿部-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="14640"/>
+    <part id="80" subtype="normal_part" uuid="64bb6ad9-e1ef-4cb1-bdc8-1f21513fb5be">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 -1.9073486243749998e-06 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="leg_腿部-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="36.475000381469727"/>
+      <metadata key="source_offset_y" value="22"/>
+      <metadata key="source_offset_z" value="16.77708625793457"/>
+      <mesh_stat face_count="14640" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="77">
+    <metadata key="name" value="99-yaw_roll_motion_偏航横滚运动-F.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7576"/>
+    <part id="76" subtype="normal_part" uuid="3d51ccd1-3ffd-45b8-9158-9983c2adf9fa">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="99-yaw_roll_motion_偏航横滚运动-F.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="1.0500001907348633"/>
+      <metadata key="source_offset_z" value="-10.249997138977051"/>
+      <mesh_stat face_count="7576" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="81">
+    <metadata key="name" value="leg_腿部-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="14640"/>
+    <part id="80" subtype="normal_part" uuid="c35bdbc0-4dfd-4e24-ac14-cde0a4005b1d">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 -1.9073486243749998e-06 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="leg_腿部-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="36.475000381469727"/>
+      <metadata key="source_offset_y" value="22"/>
+      <metadata key="source_offset_z" value="16.77708625793457"/>
+      <mesh_stat face_count="14640" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="74">
+    <metadata key="name" value="01-upper_leg_rigidity_plate_上腿加固板-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4936"/>
+    <part id="73" subtype="normal_part" uuid="e189ceb9-5f81-47b2-a7b7-03c4949f7634">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 -9.5367431518749993e-07 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="01-upper_leg_rigidity_plate_上腿加固板-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="17.50393009185791"/>
+      <metadata key="source_offset_y" value="-11.59809684753418"/>
+      <metadata key="source_offset_z" value="1"/>
+      <mesh_stat face_count="4936" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="79">
+    <metadata key="name" value="bearing_roll_轴承滚轮-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4472"/>
+    <part id="78" subtype="normal_part" uuid="a7f0706d-08ed-47a4-a9bc-580b606e8c49">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="bearing_roll_轴承滚轮-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0"/>
+      <metadata key="source_offset_y" value="0"/>
+      <metadata key="source_offset_z" value="1.75"/>
+      <mesh_stat face_count="4472" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="75">
+    <metadata key="name" value="01-upper_leg_rigidity_plate_上腿加固板-FT.STEP"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="4936"/>
+    <part id="73" subtype="normal_part" uuid="7671ac00-e296-48cc-82bc-32b603793ad2">
+      <metadata key="name" value="1"/>
+      <metadata key="matrix" value="1 0 0 -9.5367431518749993e-07 0 1 0 0 0 0 1 0 0 0 0 1"/>
+      <metadata key="source_file" value="01-upper_leg_rigidity_plate_上腿加固板-FT.STEP"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="17.50393009185791"/>
+      <metadata key="source_offset_y" value="-11.59809684753418"/>
+      <metadata key="source_offset_z" value="1"/>
+      <mesh_stat face_count="4936" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <object id="85">
+    <metadata key="name" value="tire_轮胎.stl"/>
+    <metadata key="extruder" value="1"/>
+    <metadata face_count="7056"/>
+    <part id="55" subtype="normal_part" uuid="d30c564d-f743-451b-86eb-5d35da48785e">
+      <metadata key="name" value="tire_轮胎.stl"/>
+      <metadata key="matrix" value="1 0 0 0 0 1 0 -9.5367431031249963e-07 0 0 1 1.9073485906249992e-06 0 0 0 1"/>
+      <metadata key="source_file" value="tire_轮胎.stl"/>
+      <metadata key="source_object_id" value="0"/>
+      <metadata key="source_volume_id" value="0"/>
+      <metadata key="source_offset_x" value="0.05000000074505806"/>
+      <metadata key="source_offset_y" value="-0.017499999376013875"/>
+      <metadata key="source_offset_z" value="-0.038722911849617958"/>
+      <metadata key="source_in_meters" value="1"/>
+      <mesh_stat face_count="7056" edges_fixed="0" degenerate_facets="0" facets_removed="0" facets_reversed="0" backwards_edges="0"/>
+    </part>
+  </object>
+  <plate>
+    <metadata key="plater_id" value="1"/>
+    <metadata key="plater_name" value=""/>
+    <metadata key="locked" value="false"/>
+    <metadata key="filament_map_mode" value="Auto For Flush"/>
+    <metadata key="filament_maps" value="1 1"/>
+    <metadata key="filament_volume_maps" value="0 0"/>
+    <metadata key="thumbnail_file" value="Metadata/plate_1.png"/>
+    <metadata key="thumbnail_no_light_file" value="Metadata/plate_no_light_1.png"/>
+    <metadata key="top_file" value="Metadata/top_1.png"/>
+    <metadata key="pick_file" value="Metadata/pick_1.png"/>
+    <model_instance>
+      <metadata key="object_id" value="2"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="672"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="4"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="683"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="10"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="716"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="12"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="727"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="14"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="738"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="21"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="793"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="42"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="925"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="61"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1101"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="66"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1189"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="68"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1200"/>
+    </model_instance>
+  </plate>
+  <plate>
+    <metadata key="plater_id" value="2"/>
+    <metadata key="plater_name" value=""/>
+    <metadata key="locked" value="false"/>
+    <metadata key="filament_map_mode" value="Auto For Flush"/>
+    <metadata key="filament_maps" value="1 1"/>
+    <metadata key="filament_volume_maps" value="0 0"/>
+    <metadata key="thumbnail_file" value="Metadata/plate_2.png"/>
+    <metadata key="thumbnail_no_light_file" value="Metadata/plate_no_light_2.png"/>
+    <metadata key="top_file" value="Metadata/top_2.png"/>
+    <metadata key="pick_file" value="Metadata/pick_2.png"/>
+    <model_instance>
+      <metadata key="object_id" value="46"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="947"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="48"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="958"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="56"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1013"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="84"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1343"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="85"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1365"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="86"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1387"/>
+    </model_instance>
+  </plate>
+  <plate>
+    <metadata key="plater_id" value="3"/>
+    <metadata key="plater_name" value=""/>
+    <metadata key="locked" value="false"/>
+    <metadata key="filament_map_mode" value="Auto For Flush"/>
+    <metadata key="filament_maps" value="1 1"/>
+    <metadata key="filament_volume_maps" value="0 0"/>
+    <metadata key="thumbnail_file" value="Metadata/plate_3.png"/>
+    <metadata key="thumbnail_no_light_file" value="Metadata/plate_no_light_3.png"/>
+    <metadata key="top_file" value="Metadata/top_3.png"/>
+    <metadata key="pick_file" value="Metadata/pick_3.png"/>
+    <model_instance>
+      <metadata key="object_id" value="23"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="804"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="34"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="881"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="38"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="903"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="50"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="969"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="70"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1211"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="72"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1222"/>
+    </model_instance>
+  </plate>
+  <plate>
+    <metadata key="plater_id" value="4"/>
+    <metadata key="plater_name" value=""/>
+    <metadata key="locked" value="false"/>
+    <metadata key="filament_map_mode" value="Auto For Flush"/>
+    <metadata key="thumbnail_file" value="Metadata/plate_4.png"/>
+    <metadata key="thumbnail_no_light_file" value="Metadata/plate_no_light_4.png"/>
+    <metadata key="top_file" value="Metadata/top_4.png"/>
+    <metadata key="pick_file" value="Metadata/pick_4.png"/>
+    <model_instance>
+      <metadata key="object_id" value="6"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="694"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="8"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="705"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="16"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="749"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="18"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="760"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="19"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="771"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="27"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="826"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="29"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="837"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="31"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="848"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="32"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="859"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="36"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="892"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="44"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="936"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="54"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1002"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="62"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1123"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="77"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1266"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="81"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1288"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="83"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1321"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="88"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1540"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="89"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1575"/>
+    </model_instance>
+  </plate>
+  <plate>
+    <metadata key="plater_id" value="5"/>
+    <metadata key="plater_name" value=""/>
+    <metadata key="locked" value="false"/>
+    <metadata key="filament_map_mode" value="Auto For Flush"/>
+    <metadata key="filament_maps" value="1 1"/>
+    <metadata key="filament_volume_maps" value="0 0"/>
+    <metadata key="thumbnail_file" value="Metadata/plate_5.png"/>
+    <metadata key="thumbnail_no_light_file" value="Metadata/plate_no_light_5.png"/>
+    <metadata key="top_file" value="Metadata/top_5.png"/>
+    <metadata key="pick_file" value="Metadata/pick_5.png"/>
+    <model_instance>
+      <metadata key="object_id" value="25"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="815"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="40"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="914"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="52"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="980"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="57"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1046"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="58"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1068"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="60"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1090"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="63"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1145"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="64"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1167"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="74"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1233"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="75"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1244"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="79"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1277"/>
+    </model_instance>
+    <model_instance>
+      <metadata key="object_id" value="82"/>
+      <metadata key="instance_id" value="0"/>
+      <metadata key="identify_id" value="1299"/>
+    </model_instance>
+  </plate>
+  <assemble>
+   <assemble_item object_id="88" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 10.25" offset="0 0 0" />
+   <assemble_item object_id="88" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="19" instance_id="0" transform="9.1810530242415907e-06 -2.035368385094805e-06 -0.99999999999999989 -2.0353683825662821e-06 1 -2.0353870719198501e-06 0.99999999999999989 2.0353870695544818e-06 9.1810488809969732e-06 319.49739003598478 -113.31619943250638 16.225064612195492" offset="0 0 0" />
+   <assemble_item object_id="19" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="38" instance_id="0" transform="1.0000000003071157 0 0 0 1.0000000000000462 0 0 0 1.0000000003071174 1257.9723725318909 -36.096056957048674 40.766944031800776" offset="0 0 0" />
+   <assemble_item object_id="38" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="23" instance_id="0" transform="1.0000000003076146 0 0 0 1.0000000000000007 0 0 0 1.0000000003076144 901.31702852249146 -36.096056957048674 41.690438345754032" offset="0 0 0" />
+   <assemble_item object_id="23" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="32" instance_id="0" transform="2.2204460492503131e-16 0 1 0 1 0 -1 0 2.2204460492503131e-16 332.82052612304688 -86.132720947265625 1.0000000000000013" offset="0 0 0" />
+   <assemble_item object_id="32" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 -4.0625002499999999e-16 4.3749997100000003e-15" />
+   <assemble_item object_id="48" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1812.3253827095032 -104.74461365068825 11.981884102906729" offset="0 0 0" />
+   <assemble_item object_id="48" volume_id="0" transform="1 0 0 0 1 0 0 0 1 4.0625002499999999e-16 0 0" />
+   <assemble_item object_id="52" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1633.9165554046631 -103.25917625749977 2.0742794085402743" offset="0 0 0" />
+   <assemble_item object_id="52" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 4.0625002499999999e-16" />
+   <assemble_item object_id="36" instance_id="0" transform="0.9999999996793596 0 0 0 0.99999999999999956 0 0 0 0.99999999967935949 1311.1046166419983 -36.096056957048674 82.564055543031245" offset="0 0 0" />
+   <assemble_item object_id="36" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="46" instance_id="0" transform="0.99999999966327446 0 0 0 0.99999999966327469 0 0 0 0.99999999999999922 1408.9038844108582 -36.096056957048688 11.981639008607413" offset="0 0 0" />
+   <assemble_item object_id="46" volume_id="0" transform="1 0 0 0 1 0 0 0 1 -4.0625002499999999e-16 0 0" />
+   <assemble_item object_id="50" instance_id="0" transform="0.99999999969876019 0 0 0 0.99999999966110042 0 0 0 0.99999999975420173 1718.2962856292725 -103.25917625749977 45.410418610658198" offset="0 0 0" />
+   <assemble_item object_id="50" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="25" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1182.0901284217834 -36.096056957048674 15.074278931703136" offset="0 0 0" />
+   <assemble_item object_id="25" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="27" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1123.3401246070862 -36.096056957048674 17.874279122437997" offset="0 0 0" />
+   <assemble_item object_id="27" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 2.0312501200000001e-16" />
+   <assemble_item object_id="21" instance_id="0" transform="1 0 0 0 1 0 0 0 1 973.88219690322876 -36.096056957048674 29.447577551686653" offset="0 0 0" />
+   <assemble_item object_id="21" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="29" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1059.0901207923889 -36.096056957048674 26.767394166078134" offset="0 0 0" />
+   <assemble_item object_id="29" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="31" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1030.5901207923889 -36.096056957048674 10.074278931703136" offset="0 0 0" />
+   <assemble_item object_id="31" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 -4.0625002499999999e-16 4.3749997100000003e-15" />
+   <assemble_item object_id="34" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1363.3546166419983 -36.096056957048674 29.074279885377436" offset="0 0 0" />
+   <assemble_item object_id="34" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 2.8125000599999998e-15 2.0312501200000001e-16" />
+   <assemble_item object_id="40" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1591.6165544986725 -36.096056957048688 19.274279694642569" offset="0 0 0" />
+   <assemble_item object_id="40" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 4.0625002499999999e-16" />
+   <assemble_item object_id="42" instance_id="0" transform="1 0 0 0 1.0000000000296354 0 0 0 1.0000000000296354 1557.5458674430847 -36.096056957048688 29.453085045899893" offset="0 0 0" />
+   <assemble_item object_id="42" volume_id="0" transform="1 0 0 0 1 0 0 0 1 4.0625002499999999e-16 0 -2.0312501200000001e-16" />
+   <assemble_item object_id="44" instance_id="0" transform="1.0000000000743174 0 0 0 1.000000000233831 0 0 0 1.0000000001595173 1483.3641667366028 -36.096056957048688 2.3504808951277978" offset="0 0 0" />
+   <assemble_item object_id="44" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 0" />
+   <assemble_item object_id="89" instance_id="0" transform="1 0 0 0 1 0 0 0 1 1854.3747487068176 -203.16986465454102 10.25" offset="0 0 0" />
+   <assemble_item object_id="89" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="12" instance_id="0" transform="1 0 0 0 1 0 0 0 1 798.46703243255615 -21.989078521728324 16.909018516540527" offset="0 0 0" />
+   <assemble_item object_id="12" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 2.0312501200000001e-16" />
+   <assemble_item object_id="14" instance_id="0" transform="1 0 0 0 1 0 0 0 1 748.38152980804443 -21.989078521728324 16.909018516540527" offset="0 0 0" />
+   <assemble_item object_id="14" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 2.0312501200000001e-16" />
+   <assemble_item object_id="16" instance_id="0" transform="1.0000000000442171 0 0 0 1.0000000000041429 0 0 0 1.0000000000442171 702.11375331878662 -21.989078521728324 19" offset="0 0 0" />
+   <assemble_item object_id="16" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="18" instance_id="0" transform="1 0 0 0 1 0 0 0 1 632.05185985565186 -21.989078521728324 8.4375791549682617" offset="0 0 0" />
+   <assemble_item object_id="18" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 2.8125000599999998e-15 0" />
+   <assemble_item object_id="4" instance_id="0" transform="1 0 0 0 1 0 0 0 1 212.51749420166016 0 25.399998664855957" offset="0 0 0" />
+   <assemble_item object_id="4" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 -2.0312501200000001e-16" />
+   <assemble_item object_id="8" instance_id="0" transform="1 0 0 0 1 0 0 0 1 502.66492795944214 0 40" offset="0 0 0" />
+   <assemble_item object_id="8" volume_id="0" transform="1 0 0 0 1 0 0 0 1 -2.0312501200000001e-16 2.0312501200000001e-16 0" />
+   <assemble_item object_id="10" instance_id="0" transform="1 0 0 0 1 0 0 0 1 435.28341674804688 0 20.136257171630859" offset="0 0 0" />
+   <assemble_item object_id="10" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="6" instance_id="0" transform="1 0 0 0 1 0 0 0 1 551.18995952606201 0 6.6523663997650146" offset="0 0 0" />
+   <assemble_item object_id="6" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 -1.9628906500000001e-15 3.2617186899999999e-15" />
+   <assemble_item object_id="2" instance_id="0" transform="1 0 0 0 1 0 0 0 1 49.489143371582031 0 25.399998664855957" offset="0 0 0" />
+   <assemble_item object_id="2" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 -2.0312501200000001e-16" />
+   <assemble_item object_id="57" instance_id="0" transform="2.2204460500000001e-16 0 1 0 1 0 -1 0 2.2204460500000001e-16 127.99998474121094 -179.19998168945312 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="57" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 4.0625002499999999e-16" />
+   <assemble_item object_id="66" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 12.75" offset="0 0 0" />
+   <assemble_item object_id="66" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="68" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 12.75" offset="0 0 0" />
+   <assemble_item object_id="68" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="61" instance_id="0" transform="1 0 0 0 -0.999640639 -0.026806583500000002 0 0.026806583500000002 -0.999640639 128 -486.39996337890625 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="61" volume_id="0" transform="1 0 0 0 1 0 0 0 1 4.0625002499999999e-16 0 -2.0312501200000001e-16" />
+   <assemble_item object_id="70" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 30.498307228088379" offset="0 0 0" />
+   <assemble_item object_id="70" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="64" instance_id="0" transform="1 0 0 0 1 0 0 0 1 361.03897094726562 -238.549560546875 1.3999999761581421" offset="0 0 0" />
+   <assemble_item object_id="64" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="72" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 30.498307228088379" offset="0 0 0" />
+   <assemble_item object_id="72" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="54" instance_id="0" transform="1 0 0 0 2.2204460492503131e-16 1 0 -1 2.2204460492503131e-16 128 -532.0264892578125 6.2500000000000071" offset="0 0 0" />
+   <assemble_item object_id="54" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="58" instance_id="0" transform="2.2204460500000001e-16 0 1 0 1 0 -1 0 2.2204460500000001e-16 127.99998474121094 -200.39997863769531 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="58" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 4.0625002499999999e-16" />
+   <assemble_item object_id="62" instance_id="0" transform="-2.2204460492503131e-16 -1 0 1.2490009e-15 -2.7733391139150854e-31 1 -1 2.2204460492503131e-16 1.2490009e-15 435.20001220703125 -179.20001220703125 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="62" volume_id="0" transform="1 0 0 0 1 0 0 0 1 -2.0312501200000001e-16 2.0312501200000001e-16 0" />
+   <assemble_item object_id="56" instance_id="0" transform="2.2204460500000001e-16 0 -1 0 1 0 1 0 2.2204460500000001e-16 795.55242919921875 -74.81610107421875 3.8000009059906024" offset="0 0 0" />
+   <assemble_item object_id="56" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 -2.8125000599999998e-15" />
+   <assemble_item object_id="60" instance_id="0" transform="1 0 0 0 1 0 0 0 1 435.2000732421875 -473.30291748046875 1.3999999761581421" offset="0 0 0" />
+   <assemble_item object_id="60" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="63" instance_id="0" transform="2.2204460500000001e-16 0 1 0 1 0 -1 0 2.2204460500000001e-16 481.19317626953131 -155.80641174316406 3.8000009059906024" offset="0 0 0" />
+   <assemble_item object_id="63" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 4.0625002499999999e-16" />
+   <assemble_item object_id="86" instance_id="0" transform="2.2204460500000001e-16 0 -1 0 1 0 1 0 2.2204460500000001e-16 514.63250732421875 -187.28823852539062 3.8000009059906024" offset="0 0 0" />
+   <assemble_item object_id="86" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 -2.8125000599999998e-15" />
+   <assemble_item object_id="84" instance_id="0" transform="2.2204460500000001e-16 0 -1 0 1 0 1 0 2.2204460500000001e-16 545.63250732421875 -218.28823852539062 3.8000009059906024" offset="0 0 0" />
+   <assemble_item object_id="84" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 -2.8125000599999998e-15" />
+   <assemble_item object_id="82" instance_id="0" transform="1 0 0 0 1 0 0 0 1 435.20001220703125 128 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="82" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="83" instance_id="0" transform="-0.016671768336017089 0.00074021278522064867 0.99986074199940067 0.00074021278547753953 0.99999946100000159 -0.00072797310624638542 -0.99986074200056607 0.00072797310599459356 -0.016672307266087198 435.20001220703125 -179.20001220703125 127.99999999999999" offset="0 0 0" />
+   <assemble_item object_id="83" volume_id="0" transform="1 0 0 0 1 0 0 0 1 2.8125000565244404e-15 0 0" />
+   <assemble_item object_id="77" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 11.249997138977051" offset="0 0 0" />
+   <assemble_item object_id="77" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="81" instance_id="0" transform="0.99999999958300445 0 0 0 0.99999999993005273 0 0 0 0.99999999958417018 0 0 28.999998092651367" offset="0 0 0" />
+   <assemble_item object_id="81" volume_id="0" transform="1 0 0 0 1 0 0 0 1 2.8125000565244404e-15 0 0" />
+   <assemble_item object_id="74" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 1" offset="0 0 0" />
+   <assemble_item object_id="74" volume_id="0" transform="1 0 0 0 1 0 0 0 1 4.0625002463472648e-16 0 0" />
+   <assemble_item object_id="79" instance_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 1.75" offset="0 0 0" />
+   <assemble_item object_id="79" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 0 0" />
+   <assemble_item object_id="75" instance_id="0" transform="1 0 0 0 1 0 0 0 1 351.09750366210938 -126.33267211914062 1" offset="0 0 0" />
+   <assemble_item object_id="75" volume_id="0" transform="1 0 0 0 1 0 0 0 1 4.0625002463472648e-16 0 0" />
+   <assemble_item object_id="85" instance_id="0" transform="2.2204460500000001e-16 0 -1 0 1 0 1 0 2.2204460500000001e-16 483.63250732421875 -218.28823852539062 3.8000009059906024" offset="0 0 0" />
+   <assemble_item object_id="85" volume_id="0" transform="1 0 0 0 1 0 0 0 1 0 4.0625002499999999e-16 -2.8125000599999998e-15" />
+  </assemble>
+</config>

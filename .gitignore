@@ -1,0 +1,18 @@
+# 上游克隆仓（各有各的 git，不混进日志仓）
+microduck-replica/
+microduck-replica-cad/
+microduck/
+microduck-build/
+microduck_rl/
+
+# Python 虚拟环境与缓存
+.venv-sim/
+__pycache__/
+*.pyc
+
+# 大二进制（打印源文件已在 cad 仓，不重复存）
+导出/
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
